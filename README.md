@@ -1,4 +1,5 @@
 **Création de Tableaux de Bord Interactifs avec Power BI**
+![Img](https://github.com/AniangJam/Tableau-de-bord-interactifs-Power-BI/assets/155065772/5201a894-70b8-4b31-bf87-8c53763b117c)
 
 **Objectifs:** Utiliser Power BI pour transformer les données en insights actionnables à travers la création de tableaux de bord interactifs, depuis l'importation et la transformation des données jusqu'à la collaboration et le partage des insights.
 
